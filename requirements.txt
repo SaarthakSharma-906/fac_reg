@@ -1,1 +1,10 @@
+opencv-python
+torch
+torchvision
+facenet-pytorch
+pillow
+numpy
+imgaug
+scikit-learn
+joblib
  
